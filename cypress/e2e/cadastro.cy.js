@@ -17,9 +17,10 @@ describe('Cadastrar entregador',()=>{
             wpp: '11999999999',
             metodo_entrega: 'Moto',
             cnh:'cnh_digital.jpg'
+            //...
         }
         var endereco = {
-            
+            .
             cep:'06463240',
             rua:'Rua Juventus',
             numero: '234',
