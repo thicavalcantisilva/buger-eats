@@ -20,7 +20,7 @@ describe('Cadastrar entregador',()=>{
             //...
         }
         var endereco = {
-            .
+
             cep:'06463240',
             rua:'Rua Juventus',
             numero: '234',
